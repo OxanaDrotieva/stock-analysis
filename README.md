@@ -67,7 +67,7 @@ End Sub
 
  In 2018 DQ showed the negative return -63%. That means that DQ stocks decreased in price about 63%.
 
-![DQ_Analysis](C:\Users\Oxana\Documents\stock-analysis\DQ_Analysis.jpg)
+![DQ_Analysis](./DQ_Analysis.jpg)
 
 
 
@@ -206,11 +206,11 @@ for "Format the table " button.
 
 As a result of this analysis we can see that  only two of twelve stocks showed positive  dynamics in 2018: "ENPH" and "RUN":
 
-![All_Stocks_Analysis_2018](C:\Users\Oxana\Documents\stock-analysis\All_Stocks_Analysis_2018.png)
+![All_Stocks_Analysis_2018](./All_Stocks_Analysis_2018.png)
 
 2017 though was a pretty successful year for almost all the stocks including "DQ":
 
-![All_Stocks_Analysis_2017](C:\Users\Oxana\Documents\stock-analysis\All_Stocks_Analysis_2017.png)
+![All_Stocks_Analysis_2017](./All_Stocks_Analysis_2017.png)
 
 Stocks "ENPH" show good results for two years in a row what makes them attractive to invest in. "RUN" increased in price in 2017 less than others did but the dynamics is still positive. "DQ" raised well in 2017 (by almost 200%) but dropped in 2018 by 63%. 
 
@@ -372,11 +372,11 @@ For 2017 year
 
 Original code:
 
-![2017_1_Execution_time](C:\Users\Oxana\Documents\stock-analysis\2017_1_Execution_time.png)
+![2017_1_Execution_time](./2017_1_Execution_time.png)
 
 Refactored one:
 
-![2017_2_Execution_time](C:\Users\Oxana\Documents\stock-analysis\2017_2_Execution_time.png)
+![2017_2_Execution_time](./2017_2_Execution_time.png)
 
 Even though in second code we calculated the time needed to make all the calculations and formatting it is still 0.01 seconds less than for executing first one for just calculations.
 
@@ -384,11 +384,11 @@ Same for the 2018 year:
 
 Original code:
 
-![2018_1_Execution_time](C:\Users\Oxana\Documents\stock-analysis\2018_1_Execution_time.png)
+![2018_1_Execution_time](./2018_1_Execution_time.png)
 
 Refactored one:
 
-![2018_2_Execution_time](C:\Users\Oxana\Documents\stock-analysis\2018_2_Execution_time.png)
+![2018_2_Execution_time](./2018_2_Execution_time.png)
 
 Again the refactored code is 0.04 seconds faster than original one. 
 
